@@ -1,0 +1,38 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100n X7R 50V","C_0402_1005_DensityHigh",102.9750,5.8750,0.0000,top
+"C2","100n X7R 50V","C_0402_1005_DensityHigh",102.9750,4.0750,0.0000,top
+"C3","1u X7R 25V","C_0603_1608_DensityHigh",103.4000,0.2500,0.0000,top
+"C4","10n X7R 100V","C_0402_1005_DensityHigh",102.9750,2.2750,0.0000,top
+"C5","4u7 X7R 16V","C_0603_1608_DensityHigh",103.4000,-2.0000,0.0000,top
+"C6","100n X7R 50V","C_0402_1005_DensityHigh",71.7750,3.1750,0.0000,top
+"C7","100n X7R 50V","C_0402_1005_DensityHigh",71.7750,1.3750,0.0000,top
+"C8","100n X7R 50V","C_0402_1005_DensityHigh",71.7750,-0.4250,0.0000,top
+"C9","3.9pF","C_0402_1005Metric",76.0600,-2.6000,0.0000,top
+"C10","3.9pF","C_0402_1005Metric",76.0600,-4.5700,0.0000,top
+"C11","100n X7R 50V","C_0402_1005_DensityHigh",91.1750,22.5250,0.0000,top
+"C12","100n X7R 50V","C_0402_1005_DensityHigh",91.1750,20.7250,0.0000,top
+"C13","100n X7R 50V","C_0402_1005_DensityHigh",91.1750,18.9250,0.0000,top
+"C14","1u X7R 10V","C_0402_1005_DensityHigh",91.1750,17.1250,0.0000,top
+"C15","4u7 X5R 25V","C_0402_1005_DensityHigh",93.7750,22.5250,0.0000,top
+"C16","100n X7R 50V","C_0402_1005_DensityHigh",93.7750,20.7250,0.0000,top
+"C17","1u X7R 10V","C_0402_1005_DensityHigh",93.7750,18.9250,0.0000,top
+"C18","100n X7R 50V","C_0402_1005_DensityHigh",93.7750,17.1250,0.0000,top
+"C19","100n X7R 50V","C_0402_1005_DensityHigh",96.3750,22.5250,0.0000,top
+"FD1","Fiducial","Fiducial_1mm_Mask2mm",80.0000,36.3000,0.0000,top
+"FD2","Fiducial","Fiducial_1mm_Mask2mm",80.0000,33.1500,0.0000,top
+"FD3","Fiducial","Fiducial_1mm_Mask2mm",83.1500,36.3000,0.0000,top
+"FD4","Fiducial","Fiducial_1mm_Mask2mm",83.1500,33.1500,0.0000,top
+"FD5","Fiducial","Fiducial_1mm_Mask2mm",86.3000,36.3000,0.0000,top
+"FD6","Fiducial","Fiducial_1mm_Mask2mm",86.3000,33.1500,0.0000,top
+"J1","SM05B-GHS-TB","JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal",95.7500,10.5000,0.0000,top
+"J2","S2B-PH-SM4-TB","JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal",95.0000,1.1500,0.0000,top
+"R1","10k 1%","R_0402_1005_DensityHigh",71.7750,-2.2250,0.0000,top
+"R2","10k 1%","R_0402_1005_DensityHigh",71.7750,-4.0250,0.0000,top
+"R3","10k 1%","R_0402_1005_DensityHigh",71.7750,-5.8250,0.0000,top
+"R4","10k 1%","R_0402_1005_DensityHigh",71.7750,-7.6250,0.0000,top
+"R5","2k 1%","R_0402_1005_DensityHigh",96.3750,20.7250,0.0000,top
+"R6","2k 1%","R_0402_1005_DensityHigh",96.3750,18.9250,0.0000,top
+"U1","LP2992IM5-3.3/NOPB","SOT-23-5",104.2000,11.8250,0.0000,top
+"U2","BNO055","LGA-28_5.2x3.8mm_P0.5mm",78.2450,1.1550,0.0000,top
+"U3","STM32G474RET3","LQFP-64_10x10mm_P0.5mm",97.1000,30.6500,0.0000,top
+"Y1","ECS-.327-7-12-C-TR9","Crystal_SMD_2012-2Pin_2.0x1.2mm",79.5200,-3.2400,0.0000,top

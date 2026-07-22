@@ -2,11 +2,11 @@
   <img alt="Logo" width="33%" src="Logos/dummy_logo.svg">
 </p>
 
-<h1 align="center">Board Name</h1>
+<h1 align="center">HAT_RASPI5_INA226</h1>
 
 <p align="center" width="100%">
-  <a href="/actions/workflows/ci.yaml">
-    <img alt="CI Badge" src="/actions/workflows/ci.yaml/badge.svg?branch=">
+  <a href="https://github.com/thuong-dl?tab=repositories/actions/workflows/ci.yaml">
+    <img alt="CI Badge" src="https://github.com/thuong-dl?tab=repositories/actions/workflows/ci.yaml/badge.svg?branch=">
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 | Parameter | Value | 
 | --- | --- |
-| Dimensions | N/A × N/A mm |
+| Dimensions | 38.5 × 48.5 mm |
 
 ***
 

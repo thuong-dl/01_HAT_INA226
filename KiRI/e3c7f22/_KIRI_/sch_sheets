@@ -1,0 +1,9 @@
+01_HAT_INA226|01_HAT_INA226.kicad_sch||01_HAT_INA226|01_HAT_INA226
+Block Diagram|Block Diagram.kicad_sch||Block Diagram|01_HAT_INA226-Block Diagram
+Power - Sequencing|Power - Sequencing.kicad_sch||Power - Sequencing|01_HAT_INA226-Power - Sequencing
+Project Architecture|Project Architecture.kicad_sch||Project Architecture|01_HAT_INA226-Project Architecture
+Connectors|Connectors.kicad_sch||Connectors|01_HAT_INA226-Project Architecture-Connectors
+Holes, Fiducials|Holes, Fiducials.kicad_sch||Holes, Fiducials|01_HAT_INA226-Project Architecture-Holes, Fiducials
+IMU|IMU.kicad_sch||IMU|01_HAT_INA226-Project Architecture-IMU
+MCU|MCU.kicad_sch||MCU|01_HAT_INA226-Project Architecture-MCU
+Revision History|Revision History.kicad_sch||Revision History|01_HAT_INA226-Revision History

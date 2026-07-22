@@ -1,0 +1,10 @@
+Testpoint Ref.,Net,Net Class,X,Y,Side,Pad Type,Value,Footprint
+TP1,/Project Architecture/Connectors/SWDIO,Default,100.9050,5.9950,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP2,/Project Architecture/Connectors/SWCLK,Default,100.9050,4.4351,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP3,/Project Architecture/Connectors/NRST,Default,100.9050,2.8752,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP4,+3V3,Power 3V3,100.9050,1.3153,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP5,GND,GND,100.9050,-0.2446,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP6,/Project Architecture/IMU/IMU_INT,Default,73.8550,3.2950,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP7,/Project Architecture/IMU/IMU_~{RESET},Default,73.8550,1.7351,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP8,/Project Architecture/IMU/I2C2_SDA,Default,73.8550,0.1752,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
+TP9,/Project Architecture/IMU/I2C2_SCL,Default,73.8550,-1.3847,top,SMT,TestPoint,TestPoint_Pad_D0.5mm
