@@ -1018,12 +1018,20 @@
       "Project Architecture"
     ],
     [
-      "f06537ee-772d-44d3-8c50-e0ba41038c9c",
-      "Section A - Title A"
+      "98b787be-aca1-42fb-9f4a-c3164a225ee6",
+      "Connectors"
     ],
     [
-      "e744f3ce-03a6-44a6-8792-1447ef232b9a",
-      "Section B - Title B"
+      "ed1207f3-2433-4e99-ac0a-7d3c184dee0d",
+      "Holes, Fiducials"
+    ],
+    [
+      "0620ef12-c881-4284-b18b-37e6c346a328",
+      "IMU"
+    ],
+    [
+      "fd37e9f3-3bbd-4136-b5b7-831bcd696ca4",
+      "MCU"
     ],
     [
       "5fb05893-0da3-4f58-a52b-cb6d6f4cb80b",
